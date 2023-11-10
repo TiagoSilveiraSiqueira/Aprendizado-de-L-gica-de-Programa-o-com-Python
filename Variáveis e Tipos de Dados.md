@@ -1,7 +1,3 @@
-# Curso de Lógica de Programação em Python
-
-Bem-vindo ao Curso de Lógica de Programação em Python! Este curso é projetado para iniciantes que desejam aprender os fundamentos da lógica de programação usando a linguagem Python.
-
 ## 2. Variáveis e Tipos de Dados
 
 ### 2.1 Introdução a Variáveis
