@@ -1,7 +1,3 @@
-# Curso de Lógica de Programação em Python
-
-Bem-vindo ao Curso de Lógica de Programação em Python! Esta lição introdutória fornecerá uma visão geral do que é lógica de programação, por que é importante e como ela se aplica à resolução de problemas com Python.
-
 ## 1. Introdução à Lógica de Programação
 
 ### 1.1 O que é Lógica de Programação?
